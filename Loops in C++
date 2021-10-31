@@ -1,0 +1,11 @@
+Q #1) What is the basic structure of a C++ program?
+Q #2) What are the Comments in C++?
+Q #3) Difference between Declaration and Definition of a variable.
+Q #4) Comment on Local and Global scope of a variable.
+Q #5) What is the precedence when there are a Global variable and a Local variable in the program with the same name?
+Q #6) When there are a Global variable and Local variable with the same name, how will you access the global variable?
+Q #7) How many ways are there to initialize an int with a Constant?
+Q #8) What is a Constant? Explain with an example.
+
+Q #9) How do you define/declare constants in C++?
+Q #10) Comment on Assignment Operator in C++.
